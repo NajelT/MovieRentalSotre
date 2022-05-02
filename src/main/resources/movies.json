@@ -1,0 +1,451 @@
+[
+  {
+    "id": 1,
+    "name": "Black Widow",
+    "releaseDate": "2021-07-09",
+    "runtime": 134,
+    "categories": [
+      "sci-fi",
+      "action",
+      "adventure"
+    ],
+    "director": [
+      "Cate Shortland"
+    ],
+    "writers": [
+      "Eric Pearson"
+    ],
+    "actors": [
+      "Scarlett Johansson",
+      "Florence Pugh",
+      "Rachel Weisz",
+      "David Harbour",
+      "Ray Winstone",
+      "Ever Anderson"
+    ],
+    "description": "Natasha Romanoff, aka Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy, and the broken relationships left in her wake long before she became an Avenger."
+  },
+  {
+    "id": 2,
+    "name": "Cruella",
+    "releaseDate": "2021-05-18",
+    "runtime": 134,
+    "categories": [
+      "adventure",
+      "comedie",
+      "crime"
+    ],
+
+    "director": [
+      "Craig Gillespie"
+    ],
+    "writers": [
+      "Dana Fox",
+      "Tony McNamara"
+    ],
+    "actors": [
+      "Emma Stone",
+      "Emma Thompson",
+      "Joel Fry",
+      "Paul Walter Hauser",
+      "John McCrea",
+      "Emily Beecham",
+      "Mark Strong"
+    ],
+    "description": "Estella is a young and clever grifter who's determined to make a name for herself in the fashion world. She soon meets a pair of thieves who appreciate her appetite for mischief, and together they build a life for themselves on the streets of London. However, when Estella befriends fashion legend Baroness von Hellman, she embraces her wicked side to become the raucous and revenge-bent Cruella."
+  },
+  {
+    "id": 3,
+    "name": "Eternals",
+    "runtime": 157,
+    "categories": [
+      "drama",
+      "adventure",
+      "action"
+    ],
+    "releaseDate": "2021-10-18",
+    "director": ["Chloe Zhao"],
+    "writers": [
+      "Chloe Zhao",
+      "Patrick Burleigh",
+      "Ryan Firpo",
+      "Kaz Firpo"
+    ],
+    "actors": [
+      "Gemma Chan",
+      "Richard Madden",
+      "Théodore Pellerin",
+      "Angelina Jolie",
+      "Salma Hayek",
+      "Kit Harington",
+      "Kumail Nanjiani",
+      "Lia McHugh",
+      "Brian Tyree Henry",
+      "Lauren Ridloff"
+
+    ],
+    "description": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations."
+  },
+  {
+    "id": 4,
+    "name": "Raya and the Last Dragon",
+    "runtime": 124,
+    "categories": [
+      "animation",
+      "action",
+      "adventure"
+    ],
+    "releaseDate": "2021-03-04",
+    "director": [
+      "Don Hall",
+      "Carlos López Estrada"
+    ],
+    "writers": [
+      "Qui Nguyen",
+      "Adele Lim"
+    ],
+    "actors": [
+      "Kelly Marie Tran",
+      "Awkwafina",
+      "Izaac Wang",
+      "Gemma Chan",
+      "Daniel Dae Kim",
+      "Benedict Wong"
+    ],
+    "description": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. However, when sinister monsters known as the Druun threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, those same monsters have returned, and it's up to a lone warrior to track down the last dragon and stop the Druun for good."
+  },
+  {
+    "id": 5,
+    "name": "Ant-Man",
+    "runtime": 117,
+    "categories": [
+      "action",
+      "adventure",
+      "comedy"
+    ],
+    "releaseDate": "2015-07-17",
+    "director": ["Payton Reed"],
+    "writers": [
+      "Edgar Wright",
+      "Joe Cornish",
+      "Adam McKay",
+      "Paul Rudd",
+      "Stan Lee",
+      "Jack Kirby"
+    ],
+    "actors": [
+      "Paul Rudd",
+      "Michael Douglas",
+      "Evangeline Lilly",
+      "Corey Stoll"
+    ],
+    "description": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world."
+  },
+  {
+    "id": 6,
+    "name": "Spectre",
+    "runtime": 148,
+    "categories": [
+      "action",
+      "adventure",
+      "thriller"
+    ],
+    "releaseDate": "2015-11-06",
+    "director": ["Sam Mendes"],
+    "writers": [
+      "John Logan",
+      "Neal Purvis",
+      "Robert Wade",
+      "Jez Butterworth"
+    ],
+    "actors": [
+      "Daniel Craig",
+      "Christoph Waltz",
+      "Léa Seydoux",
+      "Ralph Fiennes"
+    ],
+    "description": "A cryptic message from Bond's past, sends him on a trail to uncover a sinister organization. While M battles political forces to keep the Secret Service alive, Bond peels back the layers of deceit to reveal the terrible truth behind S.P.E.C.T.R.E."
+  },
+  {
+    "id": 7,
+    "name": "Frankenstein",
+    "runtime": 70,
+    "categories": [
+      "drama",
+      "horror",
+      "sci-fi"
+    ],
+    "releaseDate": "1931-09-21",
+    "director": ["James Whale"],
+    "writers": [
+      "John L. Balderston",
+      "Mary Shelley"
+    ],
+    "actors": [
+      "Colin Clive",
+      "Mae Clarke",
+      "John Boles",
+      "Boris Karloff"
+    ],
+    "description": "Henry Frankenstein is a doctor who is trying to discover a way to make the dead walk. He succeeds and creates a monster that has to deal with living again."
+  },
+  {
+    "id": 8,
+    "name": "Black Panther",
+    "runtime": 134,
+    "categories": [
+      "action",
+      "adventure",
+      "sci-fi"
+    ],
+    "releaseDate": "2018-02-16",
+    "director": ["Ryan Coogler"],
+    "writers": [
+      "Ryan Coogler",
+      "Joe Robert Cole"
+    ],
+    "actors": [
+      "Chadwick Boseman",
+      "Michael B. Jordan",
+      "Danai Gurira",
+      "Martin Freeman"
+    ],
+    "description": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past."
+  },
+  {
+    "id": 9,
+    "name": "Avengers: Infinity War",
+    "runtime": 149,
+    "categories": [
+      "action",
+      "adventure",
+      "sci-fi"
+    ],
+    "releaseDate": "2018-04-27",
+    "director": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "writers": [
+      "Christopher Markus",
+      "Stephen McFeely",
+      "Stan Lee",
+      "Jack Kirby",
+      "Joe Simon",
+      "Steve Englehart",
+      "Steve Gan",
+      "Bill Mantlo",
+      "Keith Giffen",
+      "Larry Lieber",
+      "Don Heck"
+    ],
+    "actors": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Chris Evans",
+      "Scarlett Johansson",
+      "Jeremy Renner"
+    ],
+    "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+  },
+  {
+    "id": 10,
+    "name": "Aquaman",
+    "runtime": 140,
+    "categories": [
+      "fantasy",
+      "science-fiction"
+    ],
+    "releaseDate": "2018-12-14",
+    "director": ["James Wan"],
+    "writers": [
+      "Paul Norris",
+      "Mort Weisinger"
+    ],
+    "actors": [
+      "Jason Momoa",
+      "Amber Heard",
+      "Nicole Kidman",
+      "Dolph Lundgren",
+      "Patrick Wilson",
+      "Willem Dafoe"
+    ],
+    "description": "Arthur Curry learns that he is the heir to the underwater kingdom of Atlantis, and must step forward to lead his people and be a hero to the world."
+  },
+  {
+    "id": 11,
+    "name": "Goosebumps 2: Haunted Halloween",
+    "runtime": 100,
+    "categories": [
+      "adventure",
+      "comedy",
+      "family"
+    ],
+    "releaseDate": "2018-10-12",
+    "director": ["Ari Sandel"],
+    "writers": [
+      "Rob Lieber",
+      "Darren Lemke",
+      "R.L. Stine"
+    ],
+    "actors": [
+      "Jack Black",
+      "Wendi McLendon-Covey",
+      "Madison Iseman",
+      "Jeremy Ray Taylor"
+    ],
+    "description":"Halloween comes to life in a comedy adventure based on R.L. Stine's 400-million-selling series of books."
+  },
+  {
+    "id": 12,
+    "name": "Venom",
+    "runtime": 112,
+    "categories": [
+      "horror",
+      "action",
+      "sci-fi"
+    ],
+    "releaseDate": "2018-10-05",
+    "director": ["Ruben Fleischer"],
+    "writers": [
+      "Scott Rosenberg",
+      "Jeff Pinkner",
+      "Kelly Marcel",
+      "Will Beall",
+      "Todd McFarlane",
+      "Jeff Pinkner",
+      "Scott Rosenberg",
+      "David Michelinie"
+    ],
+    "actors": [
+      "Tom Hardy",
+      "Michelle Williams",
+      "Marcella Bragio"
+    ],
+    "description": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego 'Venom' to save his life."
+  },
+  {
+    "id": 13,
+    "name": "Spider-Man: Far from Home",
+    "runtime": 129,
+    "categories": [
+      "action",
+      "adventure",
+      "sci-fi"
+    ],
+    "releaseDate": "2019-07-02",
+    "director": ["Jon Watts"],
+    "writers": [
+      "Chris McKenna",
+      "Erik Sommers",
+      "Stan Lee",
+      "Steve Dikto"
+    ],
+    "actors": [
+      "Tom Holland",
+      "Samuel L.Jackson",
+      "Jake Gyllenhaal",
+      "Marisa Tomei",
+      "Jon Favreau",
+      "Zendaya",
+      "Jacob Batalon",
+      "Tony Revolori",
+      "Angourie Rice",
+      "Remy Hii",
+      "Martin Starr",
+      "Jorge Lendeborg Jr.",
+      "Cobie Smulders",
+      "Numan Acar"
+    ],
+    "description": "Our friendly neighborhood Super Hero decides to join his best friends Ned, MJ, and the rest of the gang on a European vacation. However, Peter's plan to leave super heroics behind for a few weeks are quickly scrapped when he begrudgingly agrees to help Nick Fury uncover the mystery of several elemental creature attacks, creating havoc across the continent."
+  },
+  {
+    "id": 14,
+    "name" : "Aladdin",
+    "runtime" : 128,
+    "categories" : [
+      "adventure",
+      "family",
+      "fantasy",
+      "musical",
+      "romance"
+    ],
+    "releaseDate" : "2019-05-22",
+    "director" : ["Guy Ritchie"],
+    "writers" : [
+      "John August",
+      "Guy Ritchie"
+    ],
+    "actors" : [
+      "Will Smith",
+      "Mena Massoud",
+      "Naomi Scott",
+      "Marwan Kenzari",
+      "Navid Negahban",
+      "Nasim Pedrad",
+      "Billy Magnussen",
+      "Jordan A. Nash",
+      "Taliyah Blair",
+      "Aubrey Lin",
+      "Amir Boutrous",
+      "Numan Acar",
+      "Omari Bernard",
+      "Nathaniel Ellul",
+      "Sebastien Torkia"
+    ],
+    "description" : "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true."
+  },
+  {
+    "id": 15,
+    "name": "The Invisible Man",
+    "runtime": 124,
+    "categories": [
+      "horror",
+      "thriller",
+      "sci-fi"
+    ],
+    "releaseDate": "2020-02-28",
+    "director": ["Leigh Whannell"],
+    "writers": [
+      "Leigh Whannell"
+    ],
+    "actors": [
+      "Elisabeth Moss",
+      "Aldis Hodge",
+      "Storm Reid",
+      "Harriet Dyer",
+      "Michael Dorman",
+      "Oliver Jackson-Cohen"
+    ],
+    "description": "It follows a woman who believes she is being stalked by her abusive and wealthy boyfriend even after his apparent suicide, and ultimately deduces that he has acquired the ability to become invisible."
+  },
+  {
+    "id": 16,
+    "name": "Never Rarely Sometimes Always",
+    "runtime": 101,
+    "categories": [
+      "drama"
+    ],
+    "releaseDate": "2020-04-03",
+    "director": ["Eliza Hittman"],
+    "writers": [
+      "Andre Araujo",
+      "Samuel Brasileiro",
+      "Allan Deberton",
+      "Natália Maia"
+    ],
+    "actors": [
+      "Sidney Flanigan",
+      "Talia Ryder",
+      "Théodore Pellerin",
+      "Ryan Eggold",
+      "Sharon Van Etten",
+      "Kelly Chapman",
+      "Kim Rios Lin",
+      "Drew Seltzer",
+      "Carolina Espiro"
+    ],
+    "description": "Inseparable best friends and cousins Autumn and Skylar precariously navigate the vulnerability of female adolescence in rural Pennsylvania. When Autumn mysteriously falls pregnant, she's confronted by conservative legislation without mercy for blue-collar women seeking an abortion. With Skylar's unfailing support and bold resourcefulness, money to fund the procedure is secured and the duo board a bus bound for New York state to find the help Autumn needs."
+  }
+]
